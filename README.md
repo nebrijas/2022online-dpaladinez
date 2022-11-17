@@ -5,4 +5,4 @@ Actividades dirigidas y trabajo final
 - [AD2](ad2.md)
 - [AD3](ad3.md)
 - [AD4](ad4.md)
-- [Trabajo final](Trajo-final.md)
+- [Trabajo final](Trabajo-final.md)
