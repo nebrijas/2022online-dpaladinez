@@ -25,4 +25,3 @@ Estos datos son comparados por periodos similares en años anteriores en donde s
  
 ### Descarga de los datos
 Un punto importante en periodismo de datos es permitirle al usuario que descargue los datos para pueda acceder a sus propios análisis. Además, esta acción de colocar ***descargue datos aquí*** es una muestra de transparencia que también le ofrece credibilidad al medio.
-![image](https://user-images.githubusercontent.com/118236140/202546171-ffccca7d-bf3d-48f9-8a78-629904284c25.png)
