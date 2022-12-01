@@ -16,7 +16,7 @@ El extenso artículo de investigación tiene **12 visualizaciones solo entre map
 Dentro de las numerosas gráficas podemos encontrar gráficos de densidad comparativa, gráficos de área, mapas, *choropleth map*, cartogramas, gráficos de burbujas y barras. **Ninguno de los soportes de datos es interactivo** ni tienen la opción de descargarlos para su posterior estudio. Todas se encuentran en formatos JPG y GIF.
 
 
-En la primera, la gráfica de densidad comparativa vertical, la autora nos trata de mostrar la venta de ejemplares vivos, representado con el color azul, y los derivados de animales, con el gris, desde el año julio 2015 hasta julio del 2021. Cada curva de crecimiento está acompañada por su debido contexto de evolución.
+En la primera, la gráfica de densidad comparativa vertical, nos tratan de mostrar la venta de ejemplares vivos, representado con el color azul, y los derivados de animales, con el gris, desde el año julio 2015 hasta julio del 2021. Cada curva de crecimiento está acompañada por su debido contexto de evolución.
 
 
 En la siguiente, se nos habla del **crecimiento exponencial de los decomisos de marfil de elefante en España**, representado a partir de barras y una visualización de área. Estas nos dejan claro que el 2019 fue el año más activo incautaciones oficiales.
@@ -28,5 +28,5 @@ El mapa *chorapleth* animado nos deja claro, a través de sus diferentes tonalid
 Luego de ello, el reportaje posee un grupo de gráfico de hexágonos poco entendibles. Contradiciendo su función de base de representar de forma clara los datos.
 
 
-Y para concluir, la autora nos retrata, a través de un gráfico híbrido ente mapa y picos de crecimiento, las zonas con más problemáticas de comercio fraudulentos de aves, equinodermos, reptiles y pesos de los últimos 7 años.  En el que la tortuga mora fue el reptil más interceptado en toda España.
+A través de un gráfico híbrido entre mapa y picos de crecimiento, nostratan de mostar las zonas con más problemáticas de comercio fraudulentos de aves, equinodermos, reptiles y pesos de los últimos 7 años.  En el que la tortuga mora fue el reptil más interceptado en toda España.
 
