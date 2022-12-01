@@ -1,6 +1,8 @@
 # Uso De la API del Covid-19 con Pandas
 
-A continuación trabajaremos con los datos facilitados por la página api.covid19api, cuyo fin es recopilar información se los contagias de vid en todo el planeta. 
+Aquí [IPython Notebook](docs/ad4.ipynb)
+
+A continuación trabajaremos con los datos facilitados por la página api.covid19api, cuyo fin es recopilar información se los contagias de Covid19 en todo el planeta. 
 
 En este ejercicio implementaremos la función **Pandas**,  librería externa de Phyton, con la trabajáremos los datos del Covid para aprender a crear gráficas de líneas 
 
