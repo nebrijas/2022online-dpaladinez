@@ -2,7 +2,9 @@
 
 A continuación trabajaremos con los datos facilitados por la página api.covid19api, cuyo fin es recopilar información se los contagias de covid 19 en todo el planeta. 
 
-En este ejercicio implementaremos la función **Pandas**,  librería externa de Python, con la trabajáremos los datos del Covid para aprender a crear gráficas de líneas 
+En este ejercicio implementaremos la función **Pandas**,  librería externa de Python, con la trabajáremos los datos del Covid para aprender a crear gráficas de líneas.
+
+[ad4.ipynb](docs/ad4.ipynb)
 
 La url: https://api.covid19api.com/countries
 
